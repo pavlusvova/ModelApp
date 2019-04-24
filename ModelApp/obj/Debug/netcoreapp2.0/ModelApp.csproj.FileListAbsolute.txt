@@ -1,0 +1,11 @@
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\bin\Debug\netcoreapp2.0\ModelApp.deps.json
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\bin\Debug\netcoreapp2.0\ModelApp.runtimeconfig.json
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\bin\Debug\netcoreapp2.0\ModelApp.runtimeconfig.dev.json
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\bin\Debug\netcoreapp2.0\ModelApp.dll
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\bin\Debug\netcoreapp2.0\ModelApp.pdb
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.csprojAssemblyReference.cache
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.AssemblyInfoInputs.cache
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.AssemblyInfo.cs
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.dll
+C:\Users\Володимир\source\repos\ModelApp\ModelApp\obj\Debug\netcoreapp2.0\ModelApp.pdb
